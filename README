@@ -1,1 +1,3 @@
-Atividade Acadêmica da disciplina Inteligênncia Artificial da UFRRJ
+Atividade Acadêmica da disciplina Inteligênncia Artificial da UFRRJ.
+Foi usado uma base de dados dos Vencedores das Olimpiadas de 2016 e usado um método de aprendizagem de máquina através de regressão logística em 80% da base de dados.
+Os outros 20% foi usado como teste, usando diferentes métricas para medir o aprendizado.
